@@ -2,7 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | [Link](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect/RevisingSelectQuery_I.sql) | [BasicSelect](https://github.com/goksuturac/Hackerrank/tree/main/BasicSelect) |
+| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=false) | [Link](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect/RevisingSelectQuery_I.sql) | [BasicSelect](https://github.com/goksuturac/Hackerrank/tree/main/BasicSelect) |
 | 2 | 
 | 3 | 
 | 4 | 
