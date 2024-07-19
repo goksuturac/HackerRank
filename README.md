@@ -2,13 +2,13 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | [Link](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect/RevisingSelectQuery_I.sql) | [BasicSelect](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect) |
-| 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)| [Link]() | [BasicSelect](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect) |
-| 3 | 
-| 4 | 
-| 5 | 
-| 6 |
-| 7 | 
+| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) |  [Link](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect/RevisingSelectQuery_I.sql) | [BasicSelect](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect) |
+| 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)|  [Link]() | [BasicSelect](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect) |
+| 3 | [Select All]()|  [Link]() | [BasicSelect](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect) |
+| 4 | []()|  [Link]() | [BasicSelect](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect) |
+| 5 | []()|  [Link]() | [BasicSelect](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect) |
+| 6 | []()|  [Link]() | [BasicSelect](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect) |
+| 7 | []()|  [Link]() | [BasicSelect](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect) |
 | 8 | 
 | 9 | 
 | 10 | 
