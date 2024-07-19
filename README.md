@@ -1,6 +1,6 @@
 # Hackerrank
 
-| # | Title | Solution | Difficulty |
+| # | Title | Solution | Subdomain |
 |---| ----- | -------- | ---------- |
 | 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | [Link](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect/RevisingSelectQuery_I.sql) | [BasicSelect](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect) |
 | 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)| [Link](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect/RevisingSelectQuery_II.sql) | [BasicSelect](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect) |
