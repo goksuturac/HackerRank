@@ -27,7 +27,7 @@
 | 23 | [Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=false) | [Link]() | [AdvancedSelect](https://github.com/goksuturac/Hackerrank/tree/main/AdvancedSelect) |
 | 24 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=false) | [Link]() | [AdvancedSelect](https://github.com/goksuturac/Hackerrank/tree/main/AdvancedSelect) |
 | 25 | [New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=false) | [Link]() | [AdvancedSelect](https://github.com/goksuturac/Hackerrank/tree/main/AdvancedSelect) |
-| 26 | 
+| 26 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=false) | [link]() | [Aggregration]() |
 | 27 | 
 | 28 | 
 | 29 | 
