@@ -22,11 +22,11 @@
 | 18 | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=false)| [Link](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect/HigherThan75Marks.sql) | [BasicSelect](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect) |
 | 19 | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=false)| [Link](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect/EmployeeNames.sql) | [BasicSelect](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect) |
 | 20 | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=false)| [Link](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect/EmployeeSalaries.sql) | [BasicSelect](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect) |
-| 21 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=false) | [Link]() | [AdvancedSelect]() |
-| 22 | 
-| 23 | 
-| 24 | 
-| 25 | 
+| 21 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=false) | [Link](https://github.com/goksuturac/Hackerrank/blob/main/AdvancedSelect/Type_of_Triangle.sql) | [AdvancedSelect](https://github.com/goksuturac/Hackerrank/tree/main/AdvancedSelect) |
+| 22 | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=false) | [Link]() | [AdvancedSelect](https://github.com/goksuturac/Hackerrank/tree/main/AdvancedSelect) |
+| 23 | [Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=false) | [Link]() | [AdvancedSelect](https://github.com/goksuturac/Hackerrank/tree/main/AdvancedSelect) |
+| 24 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=false) | [Link]() | [AdvancedSelect](https://github.com/goksuturac/Hackerrank/tree/main/AdvancedSelect) |
+| 25 | [New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=false) | [Link]() | [AdvancedSelect](https://github.com/goksuturac/Hackerrank/tree/main/AdvancedSelect) |
 | 26 | 
 | 27 | 
 | 28 | 
