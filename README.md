@@ -27,9 +27,20 @@
 | 23 | [Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=false) | [Link]() | [AdvancedSelect](https://github.com/goksuturac/Hackerrank/tree/main/AdvancedSelect) |
 | 24 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=false) | [Link]() | [AdvancedSelect](https://github.com/goksuturac/Hackerrank/tree/main/AdvancedSelect) |
 | 25 | [New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=false) | [Link]() | [AdvancedSelect](https://github.com/goksuturac/Hackerrank/tree/main/AdvancedSelect) |
-| 26 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=false) | [link]() | [Aggregration]() |
-| 27 | 
-| 28 | 
-| 29 | 
-| 30 | 
-
+| 26 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=false) | [Link](https://github.com/goksuturac/Hackerrank/blob/main/Aggregation/RevisingAggregationsTheCountFunction.sql) | [Aggregration](https://github.com/goksuturac/Hackerrank/tree/main/Aggregation) |
+| 27 | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=false) | [Link]() | [Aggregration](https://github.com/goksuturac/Hackerrank/tree/main/Aggregation) |
+| 28 | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=false) | [Link]() | [Aggregration](https://github.com/goksuturac/Hackerrank/tree/main/Aggregation) |
+| 29 | [Average Population](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=false) | [Link]() | [Aggregration](https://github.com/goksuturac/Hackerrank/tree/main/Aggregation) | 
+| 30 | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=false) | [Link]() | [Aggregration](https://github.com/goksuturac/Hackerrank/tree/main/Aggregation) | 
+| 31 | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=false) | [Link]() | [Aggregration](https://github.com/goksuturac/Hackerrank/tree/main/Aggregation) | 
+| 32 | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=false) | [Link]() | [Aggregration](https://github.com/goksuturac/Hackerrank/tree/main/Aggregation) |
+| 33 | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=false) | [Link]() | [Aggregration](https://github.com/goksuturac/Hackerrank/tree/main/Aggregation) |
+| 34 | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=false) | [Link]() | [Aggregration](https://github.com/goksuturac/Hackerrank/tree/main/Aggregation) |
+| 35 | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=false) | [Link]() | [Aggregration](https://github.com/goksuturac/Hackerrank/tree/main/Aggregation) |
+| 36 | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=false) | [Link]() | [Aggregration](https://github.com/goksuturac/Hackerrank/tree/main/Aggregation) |
+| 37 | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem?isFullScreen=false) | [Link]() | [Aggregration](https://github.com/goksuturac/Hackerrank/tree/main/Aggregation) |
+| 38 | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=false) | [Link]() | [Aggregration](https://github.com/goksuturac/Hackerrank/tree/main/Aggregation) |
+| 39 | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=false) | [Link]() | [Aggregration](https://github.com/goksuturac/Hackerrank/tree/main/Aggregation) |
+| 40 | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=false) | [Link]() | [Aggregration](https://github.com/goksuturac/Hackerrank/tree/main/Aggregation) |
+| 41 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=false) | [Link]() | [Aggregration](https://github.com/goksuturac/Hackerrank/tree/main/Aggregation) |
+| 42 | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=false) | [Link]() | [Aggregration](https://github.com/goksuturac/Hackerrank/tree/main/Aggregation) |
