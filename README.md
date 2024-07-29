@@ -1,7 +1,7 @@
 # Hackerrank
 
-| # | Title | Solution | Subdomain |
-|---| ----- | -------- | ---------- |
+| # | Title | Solution | Subdomain | Difficulty |
+|---| ----- | -------- | ---------- | ---------- |
 | 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | [Link](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect/RevisingSelectQuery_I.sql) | [BasicSelect](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect) |
 | 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)| [Link](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect/RevisingSelectQuery_II.sql) | [BasicSelect](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect) |
 | 3 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=false)| [Link](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect/SelectAll.sql) | [BasicSelect](https://github.com/goksuturac/Hackerrank/blob/main/BasicSelect) |
