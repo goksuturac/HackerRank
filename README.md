@@ -44,3 +44,22 @@
 | 40 | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=false) | [Link](https://github.com/goksuturac/HackerRank/blob/main/Aggregation/WeatherObservationStationXVIII.sql) | [Aggregration](https://github.com/goksuturac/Hackerrank/tree/main/Aggregation) | Medium |
 | 41 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=false) | [Link](https://github.com/goksuturac/HackerRank/blob/main/Aggregation/WeatherObservationStationXIX.sql) | [Aggregration](https://github.com/goksuturac/Hackerrank/tree/main/Aggregation) | Medium |
 | 42 | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=false) | []() | [Aggregration](https://github.com/goksuturac/Hackerrank/tree/main/Aggregation) | Medium |
+| 43 | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=false) | [Link](https://github.com/goksuturac/HackerRank/blob/main/BasicJoin/PopulationCensus.sql) | [Basic Join](https://github.com/goksuturac/HackerRank/tree/main/BasicJoin) | Easy |
+| 44 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=false) | [Link](https://github.com/goksuturac/HackerRank/blob/main/BasicJoin/AfricanCities.sql) | [Basic Join](https://github.com/goksuturac/HackerRank/tree/main/BasicJoin) | Easy |
+| 45 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=false) | []() | [Basic Join](https://github.com/goksuturac/HackerRank/tree/main/BasicJoin) | Easy |
+| 46 | [The Report](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=false) | []() | [Basic Join](https://github.com/goksuturac/HackerRank/tree/main/BasicJoin) | Medium |
+| 47 | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=false) | []() | [Basic Join](https://github.com/goksuturac/HackerRank/tree/main/BasicJoin) | Medium |
+| 48 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=false) | []() | [Basic Join](https://github.com/goksuturac/HackerRank/tree/main/BasicJoin) | Medium |
+| 49 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=false) | []() | [Basic Join](https://github.com/goksuturac/HackerRank/tree/main/BasicJoin) | Medium |
+| 50 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=false) | []() | [Basic Join](https://github.com/goksuturac/HackerRank/tree/main/BasicJoin) | Medium |
+| 51 | [Placements](https://www.hackerrank.com/challenges/placements/problem?isFullScreen=false) | [Link](https://github.com/goksuturac/HackerRank/blob/main/AdvancedJoin/Placements.sql) | [Advanced Join](https://github.com/goksuturac/HackerRank/tree/main/AdvancedJoin) | Medium |
+| 52 | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=false) | []() | [Advanced Join](https://github.com/goksuturac/HackerRank/tree/main/AdvancedJoin) | Medium |
+| 53 | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem?isFullScreen=false) | []() | [Advanced Join](https://github.com/goksuturac/HackerRank/tree/main/AdvancedJoin) | Medium |
+| 54 | [Interviews](https://www.hackerrank.com/challenges/interviews/problem?isFullScreen=false) | []() | [Advanced Join](https://github.com/goksuturac/HackerRank/tree/main/AdvancedJoin) | Hard |
+| 55 | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem?isFullScreen=false) | []() | [Advanced Join](https://github.com/goksuturac/HackerRank/tree/main/AdvancedJoin) | Hard |
+
+
+
+
+
+
